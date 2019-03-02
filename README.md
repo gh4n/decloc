@@ -1,2 +1,2 @@
 # decloc
-nifty programs in ~10 lines of code
+nifty/fun programs in ~10 lines of code
